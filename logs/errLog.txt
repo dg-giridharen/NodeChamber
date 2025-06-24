@@ -1,2 +1,5 @@
-[2025-06-24 15:13:32]	[8d6e129d-28fb-4560-8271-3f1592928341]	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
-[2025-06-24 16:58:14]	[aeecea9c-0872-40e9-beb3-a4adf3b60025]	TypeError: Cannot read properties of undefined (reading 'split')
+{"timestamp":"2025-06-24T16:45:05.357Z","uuid":"f947bdae-76f8-4a08-9ff9-03dbfd1b4650","message":"Error: Cannot set headers after they are sent to the client"}
+{"timestamp":"2025-06-24T16:46:52.626Z","uuid":"acd89d51-3380-4ba6-87d2-bdcc5e000b1b","message":"TypeError: Cannot read properties of undefined (reading 'split')"}
+{"timestamp":"2025-06-24T16:47:10.942Z","uuid":"0ac3d921-870c-4416-89b8-f99dceb2b216","message":"TypeError: Cannot read properties of undefined (reading 'split')"}
+{"timestamp":"2025-06-24T16:54:48.080Z","uuid":"ad57ce58-452d-4a45-b535-f65945632097","message":"TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined."}
+{"timestamp":"2025-06-24T17:10:04.235Z","uuid":"70b0de9d-6bc4-4e35-a0c4-18ae95431415","message":"Error: Cannot set headers after they are sent to the client"}
