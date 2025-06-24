@@ -1,122 +1,102 @@
 [
     {
         "_id": 1,
-        "firstname": "Priya",
-        "lastname": "Kumar",
-        "phonenumber": "9840123456"
+        "f": "Priya",
+        "l": "Kumar"
     },
     {
         "_id": 2,
-        "firstname": "Rohan",
-        "lastname": "Patel",
-        "phonenumber": "9952098765"
+        "f": "Rohan",
+        "l": "Patel"
     },
     {
         "_id": 3,
-        "firstname": "Ananya",
-        "lastname": "Singh",
-        "phonenumber": "9789054321"
+        "f": "Ananya",
+        "l": "Singh"
     },
     {
         "_id": 4,
-        "firstname": "Vikram",
-        "lastname": "Sharma",
-        "phonenumber": "9884011223"
+        "f": "Vikram",
+        "l": "Sharma"
     },
     {
         "_id": 5,
-        "firstname": "Sneha",
-        "lastname": "Rao",
-        "phonenumber": "9500088776"
+        "f": "Sneha",
+        "l": "Rao"
     },
     {
         "_id": 6,
-        "firstname": "Aditya",
-        "lastname": "Reddy",
-        "phonenumber": "9176544332"
+        "f": "Aditya",
+        "l": "Reddy"
     },
     {
         "_id": 7,
-        "firstname": "Kavya",
-        "lastname": "Nair",
-        "phonenumber": "9841099887"
+        "f": "Kavya",
+        "l": "Nair"
     },
     {
         "_id": 8,
-        "firstname": "Arjun",
-        "lastname": "Menon",
-        "phonenumber": "9962077665"
+        "f": "Arjun",
+        "l": "Menon"
     },
     {
         "_id": 9,
-        "firstname": "Divya",
-        "lastname": "Gupta",
-        "phonenumber": "9444012345"
+        "f": "Divya",
+        "l": "Gupta"
     },
     {
         "_id": 10,
-        "firstname": "Harish",
-        "lastname": "Iyer",
-        "phonenumber": "9840287654"
+        "f": "Harish",
+        "l": "Iyer"
     },
     {
         "_id": 11,
-        "firstname": "Meera",
-        "lastname": "Pillai",
-        "phonenumber": "9791034567"
+        "f": "Meera",
+        "l": "Pillai"
     },
     {
         "_id": 12,
-        "firstname": "Sameer",
-        "lastname": "Varma",
-        "phonenumber": "9677011223"
+        "f": "Sameer",
+        "l": "Varma"
     },
     {
         "_id": 13,
-        "firstname": "Nisha",
-        "lastname": "Joshi",
-        "phonenumber": "9840544332"
+        "f": "Nisha",
+        "l": "Joshi"
     },
     {
         "_id": 14,
-        "firstname": "Rajesh",
-        "lastname": "Desai",
-        "phonenumber": "9940199887"
+        "f": "Rajesh",
+        "l": "Desai"
     },
     {
         "_id": 15,
-        "firstname": "Pooja",
-        "lastname": "Shah",
-        "phonenumber": "9884477665"
+        "f": "Pooja",
+        "l": "Shah"
     },
     {
         "_id": 16,
-        "firstname": "Suresh",
-        "lastname": "Murthy",
-        "phonenumber": "9445012345"
+        "f": "Suresh",
+        "l": "Murthy"
     },
     {
         "_id": 17,
-        "firstname": "Sunita",
-        "lastname": "Krishnan",
-        "phonenumber": "9840387654"
+        "f": "Sunita",
+        "l": "Krishnan"
     },
     {
         "_id": 18,
-        "firstname": "Arun",
-        "lastname": "Prasad",
-        "phonenumber": "9790034567"
+        "f": "Arun",
+        "l": "Prasad"
     },
     {
         "_id": 19,
-        "firstname": "Deepa",
-        "lastname": "Jha",
-        "phonenumber": "9566011223"
+        "f": "Deepa",
+        "l": "Jha"
     },
     {
         "_id": 20,
-        "firstname": "Karthik",
-        "lastname": "Srinivasan",
-        "phonenumber": "9840744332"
+        "f": "Karthik",
+        "l": "Srinivasan"
     }
 ]
