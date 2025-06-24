@@ -1,0 +1,2 @@
+[2025-06-24 15:13:32]	[8d6e129d-28fb-4560-8271-3f1592928341]	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+[2025-06-24 16:58:14]	[aeecea9c-0872-40e9-beb3-a4adf3b60025]	TypeError: Cannot read properties of undefined (reading 'split')
