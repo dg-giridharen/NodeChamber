@@ -9,7 +9,7 @@ const handleRefreshToken = (req,res)=>{
     if(!cookies?.jwt) return res.sendSatus(401)
     const refreshToken = cookies.jwt
     const foundUser = usersDB.users.find(user=> user.refreshToken===refreshToken)
-    if(!foundUser) return res.sendSatus(403)
+    if(!foundUser) return res.sendStatus(403)
     
     const roles = Object.values(foundUser.roles)
     jwt.verify(
